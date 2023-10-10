@@ -1,0 +1,27 @@
+This README file contains information on the contents of the meta-s57 layer.
+
+Please see the corresponding sections below for details.
+Patches
+=======
+
+Please submit any patches against the meta-s57 layer to the 
+the maintainer:
+
+Maintainer: Zoltan Kuscsik <zoltan@s57.io>
+
+Table of Contents
+=================
+
+  I. Adding the meta-s57 layer to your build
+ II. Misc
+
+
+I. Adding the meta-s57 layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-s57'
+
+II. Misc
+========
+
+--- replace with specific information about the meta-s57 layer ---
